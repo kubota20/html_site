@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+.w_inner {
+  width: 100%;
+}
+
+.header_img img {
+  width: 100%;
+  height: 380px;
+}
+.container {
+  width: 100%;
+}
+
+.service_block {
+  display: flex;
+  flex-direction: column;
+}
+
+.servics {
+  display: flex;
+  width: 100%;
+  height: 200px;
+  margin: 30px auto;
+  justify-content: center;
+}
+
+.img_block {
+  width: 400px;
+}
+
+.img_block img {
+  width: 100%;
+  height: 230px;
+}
+
+.servics_mq {
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+}
+
+.servics_mq a {
+  padding: 15px 5px;
+  margin-top: auto;
+}
